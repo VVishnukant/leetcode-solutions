@@ -32,19 +32,16 @@ public:
 
     ListNode* sortList(ListNode* head) {
         if(head==NULL || head->next == NULL ) return head;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast->next !=NULL && fast->next->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        // slow = left middle
         ListNode* a = head;
-        ListNode* temp = head;
-        int n = 0;
-        while(temp!=NULL){
-            n++;
-            temp=temp->next;
-        }
-        temp = head;
-        for(int i=1;i<n/2;i++){
-            temp=temp->next;
-        }
-        ListNode* b = temp->next;
-        temp->next=NULL;
+        ListNode* b = slow->next;
+        slow->next=NULL;
         a = sortList(a);
         b = sortList(b);
         return merge(a, b);
