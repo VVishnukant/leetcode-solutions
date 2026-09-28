@@ -10,27 +10,21 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* tempa = list1;
-        ListNode* tempb = list2;
-        ListNode* list3 = new ListNode(100);
-        ListNode* tempc = list3;
-        while(tempa!=NULL && tempb!=NULL){
-            if(tempa->val <= tempb->val){
-                ListNode* t = new ListNode(tempa->val);
-                tempc->next = t;
-                tempc = t;
-                tempa = tempa->next;
-            }
-            else{
-                ListNode* t = new ListNode(tempb->val);
-                tempc->next = t;
-                tempc = t;
-                tempb = tempb->next;
-            }
+    ListNode*merge(ListNode*x,ListNode*y){
+
+        if(x==NULL)return y;
+        if(y==NULL)return x;
+        if(x->val<=y->val){
+            x->next=merge(x->next,y);
+            return x;
         }
-        if(tempa==NULL) tempc->next = tempb;
-        else tempc->next = tempa;
-        return list3->next; // beta list3 mein 100 tha na
+        else{
+            y->next=merge(x,y->next);
+            return y;
+        }
+    }
+    ListNode* mergeTwoLists(ListNode* x, ListNode*y) {
+        
+        return merge(x,y);
     }
 };
