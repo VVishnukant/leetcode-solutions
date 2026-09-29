@@ -34,7 +34,7 @@ public:
             tempc=tempc->next;
         }
         c = c->next;
-        c = reverseList(c);
+        c = reverseList(c); // TC = O(N)
         ListNode* a = head;
         ListNode* b = c;
         while(a){
