@@ -10,11 +10,11 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
+    ListNode* reverseList(ListNode* head) { 
         ListNode* prev = NULL;
         ListNode* next = NULL;
         ListNode* curr = head;
-        while(curr){
+        while(curr){ 
             next = curr->next;
             curr->next = prev;
             prev = curr;
@@ -27,7 +27,7 @@ public:
         ListNode* c = new ListNode(10);
         ListNode* tempc = c;
         ListNode* temp = head;
-        while(temp){
+        while(temp){ // TC-> O(n) SC->O(n)
             ListNode* node = new ListNode(temp->val);
             tempc->next = node;
             temp = temp->next;
