@@ -24,20 +24,20 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
-        ListNode* c = new ListNode(10);
-        ListNode* tempc = c;
         ListNode* temp = head;
-        while(temp){ // TC-> O(n) SC->O(n)
-            ListNode* node = new ListNode(temp->val);
-            tempc->next = node;
+        int n = 0;
+        while(temp){  
+            n++;
             temp = temp->next;
-            tempc=tempc->next;
         }
-        c = c->next;
-        c = reverseList(c); // TC = O(N)
+        int half = n/2;
+        temp = head;
+        for(int i=1;i<half;i++){
+            temp = temp->next;
+        }
         ListNode* a = head;
-        ListNode* b = c;
-        while(a){
+        ListNode* b = reverseList(temp->next); 
+        for(int i=1;i<=n/2;i++){
             if(a->val != b->val) return false;
             a = a->next;
             b = b->next;
