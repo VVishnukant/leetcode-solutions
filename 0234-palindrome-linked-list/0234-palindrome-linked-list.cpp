@@ -37,7 +37,7 @@ public:
         }
         ListNode* a = head;
         ListNode* b = reverseList(temp->next); 
-        for(int i=1;i<=n/2;i++){
+        while(b){
             if(a->val != b->val) return false;
             a = a->next;
             b = b->next;
