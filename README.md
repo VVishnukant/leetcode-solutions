@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VVishnukant/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0148-sort-list) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
