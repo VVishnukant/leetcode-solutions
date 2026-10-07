@@ -17,30 +17,21 @@ public:
         ListNode* b = head->next;
         ListNode* c = head->next->next;
         if(c==NULL) return {-1,-1};
+
+        int mindist = INT_MAX;
+        int fidx = -1,sidx = -1;
+
         while(c){
             if(b->val > a->val && b->val > c->val  ||  b->val < a->val && b->val < c->val){
+                // for maxdistance
                 if(firstIdx==-1) firstIdx = idx;
                 else secondIdx = idx;
-            }
-            a=a->next;
-            b=b->next;
-            c=c->next;
-            idx++;
-        }
-        if(secondIdx==-1) return {-1,-1};
-        int maxdist = secondIdx-firstIdx;
-        int mindist = INT_MAX;
-        firstIdx = -1,secondIdx = -1;
-        a = head;
-        b = head->next;
-        c = head->next->next;
-        int d;
-        while(c){
-            if(b->val > a->val && b->val > c->val  ||  b->val < a->val && b->val < c->val){
-                firstIdx = secondIdx;
-                secondIdx = idx;
-                if(firstIdx!=-1){
-                   int d = secondIdx - firstIdx;
+
+                // for mindistance
+                fidx = sidx;
+                sidx = idx;
+                if(fidx!=-1){
+                   int d = sidx - fidx;
                    mindist=min(mindist,d);
                 }
             }
@@ -49,6 +40,8 @@ public:
             c=c->next;
             idx++;
         }
+        int maxdist = secondIdx-firstIdx;
+        if(secondIdx==-1) return {-1,-1};
         return {mindist,maxdist};
     }
 };
