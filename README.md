@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VVishnukant/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VVishnukant/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VVishnukant/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VVishnukant/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
