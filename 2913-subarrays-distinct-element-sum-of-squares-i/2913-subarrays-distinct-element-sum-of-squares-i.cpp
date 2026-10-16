@@ -9,7 +9,7 @@ public:
             for(int j=i;j<n;j++){
                 if(freq[nums[j]]==0) count++;
                 freq[nums[j]]++;
-                ans+=pow(count,2);
+                ans+=count*count;
             }
         }
         return ans;
