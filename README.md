@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/VVishnukant/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/VVishnukant/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VVishnukant/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VVishnukant/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/VVishnukant/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VVishnukant/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VVishnukant/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VVishnukant/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VVishnukant/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
