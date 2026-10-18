@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/VVishnukant/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VVishnukant/leetcode-solutions/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/VVishnukant/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
