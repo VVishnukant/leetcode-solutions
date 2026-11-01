@@ -1,40 +1,30 @@
+// method-2 by using extra stack that will always have the same 
+// no of elements as your given stack
 class MinStack {
 public:
-    stack<long long>st;
-    long long min;
-    MinStack() {
-        min = LLONG_MAX;
+    stack<int>st;
+    stack<int>helper;
+    MinStack() { // constructor
+        
     }
     
-    void push(int val) {
-        long long x = (long long)val;
-        if(st.size()==0){
-            st.push(x);
-            min = x;
-        } 
-        else if(x>=min) st.push(x);
-        else{
-            st.push(2*x-min);
-            min = x;
-        }
+    void push(int val) { // O(1)
+        st.push(val);
+        if(helper.size()==0 || val<helper.top()) helper.push(val);
+        else helper.push(helper.top());
     }
     
-    void pop() {
-        if(st.top()<min){
-            long long oldMin = 2*min-st.top();
-            min = oldMin;
-
-        }
+    void pop() { // O(1)
         st.pop();
+        helper.pop();
     }
     
-    int top() {
-        if(st.top()<min) return min;
-        else return st.top();
+    int top() { // O(1)
+        return st.top();
     }
     
     int getMin() {
-        return min;
+        return helper.top();
     }
 };
 
