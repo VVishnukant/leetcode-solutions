@@ -1,31 +1,43 @@
-// method-2 by using extra stack that will always have the same 
-// no of elements as your given stack
-// TC-> O(1) SC-> O(n)
+// method-4 Implement the stack using vector
+// TC-> O(n) SC-> O(1)
 class MinStack {
 public:
-    stack<int>st;
-    stack<int>helper;
+    stack<long long>st;
+    long long mini;
     MinStack() { // constructor
-        
+        mini = LLONG_MAX;
     }
     
     void push(int val) { // O(1)
-        st.push(val);
-        if(helper.size()==0 || val<helper.top()) helper.push(val);
-        else helper.push(helper.top());
+        long long x = (long long)val;
+        if(st.size()==0){
+            st.push(x);
+            mini = x;
+        }
+        else if(x>=mini) st.push(x);
+        else{
+            st.push(2*x-mini);
+            mini = x;
+        }
     }
     
     void pop() { // O(1)
-        st.pop();
-        helper.pop();
+        if(st.top()>=mini) st.pop();
+        else{ // a fake value is present
+           // before popping make sure to retrieve the old min
+           long long oldMin = 2*mini-st.top();
+           mini = oldMin;
+           st.pop();
+        }
     }
     
     int top() { // O(1)
-        return st.top();
+        if(st.top()<mini) return (int)mini;
+        else return (int)st.top();
     }
     
     int getMin() {
-        return helper.top();
+        return (int)mini;
     }
 };
 
