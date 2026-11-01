@@ -1,5 +1,6 @@
 // method-2 by using extra stack that will always have the same 
 // no of elements as your given stack
+// TC-> O(1) SC-> O(n)
 class MinStack {
 public:
     stack<int>st;
