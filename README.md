@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VVishnukant/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/VVishnukant/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/VVishnukant/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VVishnukant/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VVishnukant/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
