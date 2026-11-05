@@ -10,11 +10,13 @@
  */
 class Solution {
 public:
+    int n = 0;
     ListNode* reversell(ListNode* head){
         ListNode* curr = head;
         ListNode* prev = NULL;
         ListNode* next = NULL;
         while(curr){
+            n++;
             next = curr->next;
             curr->next = prev;
             prev = curr;
@@ -24,27 +26,15 @@ public:
     }
     vector<int> nextLargerNodes(ListNode* head) {
         head = reversell(head);
-        ListNode* temp = head;
         stack<int>st;
-        int n = 0;
-        while(temp){
-            n++;
-            temp= temp->next;
-        }
-        temp = head;
         vector<int>ans(n,0);
-        ans[0] = 0;
-        for(int i=0;i<n;i++){
-            if(st.size()==0) st.push(temp->val);
-            else{
-                while(st.size()>0 && temp->val >= st.top()){
-                    st.pop();
-                }
-                if(st.size()==0) ans[i]=0;
-                else ans[i]=st.top();
-                st.push(temp->val);
-            }
-            temp = temp->next;
+        int i = 0;
+        while(head){
+            while(!st.empty() && head->val >= st.top()) st.pop();
+            if(!st.empty()) ans[i]=st.top();
+            st.push(head->val);
+            head = head->next;     
+            i++;
         }
         reverse(ans.begin(),ans.end());
         return ans;
