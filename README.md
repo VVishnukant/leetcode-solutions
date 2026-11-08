@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -167,4 +168,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VVishnukant/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
