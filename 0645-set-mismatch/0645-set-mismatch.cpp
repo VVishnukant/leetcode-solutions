@@ -13,6 +13,7 @@ public:
             if(i+1 != nums[i]){
                 ans[0]=nums[i];
                 ans[1]=i+1;
+                break;
             }
         }
         return ans;
