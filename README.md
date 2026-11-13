@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VVishnukant/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VVishnukant/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VVishnukant/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VVishnukant/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2409-count-days-spent-together](https://github.com/VVishnukant/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/VVishnukant/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VVishnukant/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -224,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/VVishnukant/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
