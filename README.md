@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1109-corporate-flight-bookings](https://github.com/VVishnukant/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/VVishnukant/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+## Prefix Sum
+|  |
+| ------- |
+| [1109-corporate-flight-bookings](https://github.com/VVishnukant/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 <!---LeetCode Topics End-->
