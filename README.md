@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/VVishnukant/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VVishnukant/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/VVishnukant/leetcode-solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
