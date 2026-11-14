@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VVishnukant/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VVishnukant/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VVishnukant/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VVishnukant/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VVishnukant/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
