@@ -1,6 +1,7 @@
 class MyQueue {
 public:
 //  pop efficient approach  TC-> O(1)
+//  push at bottom 
 //  q.front = st.top  and q.back = st.bottom
     stack<int>st;
     stack<int>helper;
