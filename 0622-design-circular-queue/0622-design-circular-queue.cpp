@@ -38,7 +38,7 @@ public:
     
     int Rear() {
         if(s==0) return -1;
-        if(b==0) return arr[c-1];
+        if(b==0) return arr[c-1]; // b f = 0 1 imp
         return arr[b-1];
     }
     
