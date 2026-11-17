@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VVishnukant/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/VVishnukant/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VVishnukant/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VVishnukant/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VVishnukant/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VVishnukant/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/VVishnukant/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/VVishnukant/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VVishnukant/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VVishnukant/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/VVishnukant/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/VVishnukant/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VVishnukant/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
