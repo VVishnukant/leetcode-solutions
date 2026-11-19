@@ -19,7 +19,7 @@ public:
             TreeNode* temp = st.top();
             st.pop();
             ans.push_back(temp->val);
-            if(temp->right) st.push(temp->right);
+            if(temp->right) st.push(temp->right);// stack mein pahle right insert karega tabhi toh top pe left wala rahega
             if(temp->left) st.push(temp->left);
         }
         return ans;
