@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VVishnukant/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/VVishnukant/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VVishnukant/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VVishnukant/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VVishnukant/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/VVishnukant/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VVishnukant/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VVishnukant/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
