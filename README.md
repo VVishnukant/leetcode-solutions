@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VVishnukant/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VVishnukant/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VVishnukant/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/VVishnukant/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
