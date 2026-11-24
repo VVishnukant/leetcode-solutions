@@ -5,16 +5,10 @@ public:
         int count = 0;
         unordered_set<string>s;
         for(int i=0;i<n;i++){
-            s.insert(words[i]);
-        }
-        for(int i=0;i<n;i++){
             string r = words[i];
             reverse(r.begin(),r.end());
-            if(words[i]==r) continue;
-            if(s.find(r)!=s.end()){ // O(1)
-                count++;
-                s.erase(words[i]);
-            }
+            if(s.find(r)!=s.end()) count++;
+            else s.insert(words[i]);
         }
         return count;
     }
