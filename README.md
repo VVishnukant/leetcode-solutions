@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VVishnukant/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VVishnukant/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VVishnukant/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VVishnukant/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VVishnukant/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VVishnukant/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/VVishnukant/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VVishnukant/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VVishnukant/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VVishnukant/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2409-count-days-spent-together](https://github.com/VVishnukant/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VVishnukant/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VVishnukant/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VVishnukant/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Indexed Tree
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/VVishnukant/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VVishnukant/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String Matching
 |  |
 | ------- |
