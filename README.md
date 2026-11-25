@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/VVishnukant/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VVishnukant/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/VVishnukant/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VVishnukant/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VVishnukant/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VVishnukant/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/VVishnukant/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/VVishnukant/leetcode-solutions/tree/master/0415-add-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VVishnukant/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VVishnukant/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/VVishnukant/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VVishnukant/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/VVishnukant/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/VVishnukant/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/VVishnukant/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/VVishnukant/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/VVishnukant/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
